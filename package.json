@@ -1,0 +1,23 @@
+{
+  "name": "browser-ts-template",
+  "version": "1.0.0",
+  "description": "A simple template for TypeScript-based in-browser apps",
+  "author": {
+    "name": "Petr Kadlec",
+    "email": "mormegil@centrum.cz"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "fancy-log": "^1.3.3",
+    "gulp": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-typescript": "^5.0.1",
+    "gulp-uglify": "^3.0.2",
+    "tsify": "^4.0.1",
+    "typescript": "^3.6.3",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.11.1"
+  }
+}
